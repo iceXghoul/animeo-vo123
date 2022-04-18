@@ -512,21 +512,3 @@ Client.on("interactionCreate", interaction => {
     }
 });
 
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-Client.login("OTY1NTQ3ODgzMjcxMTYzOTM0.Yl0yig.m0zW2_FOOvvFjwbj1Zdd8AT2pdw");
